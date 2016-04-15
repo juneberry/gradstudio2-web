@@ -209,9 +209,8 @@ h1 {
 
 
 .home {
-	width: 90%;
-	margin: 0 auto;
-	margin-top: 240px;
+	width: 100%;
+	margin: 240px auto;
 }
 
 .home_nav {
@@ -219,7 +218,7 @@ h1 {
 }
 
 .home-gif {
-	width: 200px;
+	width: 250px;
 	float: left;
 }
 
