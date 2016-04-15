@@ -211,6 +211,7 @@ h1 {
 .home {
 	width: 100%;
 	margin: 240px auto;
+	margin: 50px;
 }
 
 .home_nav {
