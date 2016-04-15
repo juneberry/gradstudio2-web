@@ -209,7 +209,7 @@ h1 {
 
 
 .home {
-	width: 100%;
+	width: 90%;
 	margin: 240px auto;
 }
 
@@ -218,8 +218,9 @@ h1 {
 }
 
 .home-gif {
-	width: 250px;
+	width: 200px;
 	float: left;
+	margin: 9px;
 }
 
 .cem {
